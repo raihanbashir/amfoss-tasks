@@ -3,7 +3,7 @@
 I realised that i enjoyed programming when i first learned python in the 7th grade. The idea of creating a something to get the solution
 of the problem presented before me was something that apealed to me. I am a hard worker and can stay focused on any task given to me. I
 have been known to be lazy but i think that enables me to figure out the most efficient method to solve any given task. Im not one to pass
-up any of the opurtunities presented to me and will do my best to make sure to come out on top
+up any of the oppurtunities presented to me and will do my best to make sure to come out on top
 ### What is your plan for the next 6 months?
 I plan on learning as many programming languages necessary to become a jack of all trades, so that I can figure what I want to specialise in
 be it Artificial Intelligence or Web Developement
